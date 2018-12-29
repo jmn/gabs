@@ -8,4 +8,6 @@ description: >-
 tags:
   - meta
 ---
-Unfortunately it doesn't seem to support saving of drafts :-S. However, you can set the publish date in the future which will prevent the post from showing.
+![space](/img/jeremy-thomas-98201-unsplash.jpg "by Jeremy Thomas on Unsplash")
+
+Unfortunately it doesn't seem to support saving of drafts :-S. However, ~~you can set the publish date in the future which will prevent the post from showing~~.
