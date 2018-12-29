@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Hello World"
-description: ""
-category: meta 
-tags: [meta, jekyll]
-excerpt: "An introduction."
 templateKey: blog-post
+title: Hello World
+date: 2013-04-16T22:28:00.000Z
+description: ' '
+tags:
+  - meta
+  - jekyll
 ---
 
 Hi. I intend to use this space to publish notes about technology. Configuration, solutions and stuff like that. To do this, I am using [Jekyll](http://jekyllbootstrap.com/lessons/jekyll-introduction.html).
