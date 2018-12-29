@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Escape key behavior in GNU Screen"
-description: ""
-category: shell
-tags: [emacs, vim, screen]
-excerpt: "Make it stop behaving badly."
 templateKey: blog-post
+title: Escape key behavior in GNU Screen
+date: 2013-04-16T22:25:00.000Z
+description: ' '
+tags:
+  - emacs
+  - vim
+  - screen
 ---
 Part of the reason I decided to start publishing things here, is that I sometimes run into what seems to be a small annoying tech problem, look for a solution, which sometimes can take time: and solve it only to years later have the very same problem pop up again. 
 
