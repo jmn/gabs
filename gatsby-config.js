@@ -108,7 +108,7 @@ module.exports = {
           }
         ]
       }
-    },
-    "gatsby-plugin-purgecss" // must be after other CSS plugins
+    }
+    //"gatsby-plugin-purgecss" // must be after other CSS plugins
   ]
 };
