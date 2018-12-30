@@ -1,8 +1,12 @@
 ---
-title: "the great Gatsby"
-layout: "post"
-tags: [blog, meta, gatsby]
 templateKey: blog-post
+title: the great Gatsby
+date: 2018-12-28T23:50:00.000Z
+description: ' '
+tags:
+  - blog
+  - meta
+  - gatsby
 ---
 
 I migrated my blog (from Jekyll) to [Gatsby](https://www.gatsbyjs.org/). Here are the details.
